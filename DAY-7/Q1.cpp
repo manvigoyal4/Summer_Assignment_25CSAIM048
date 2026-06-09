@@ -1,5 +1,7 @@
 #include<stdio.h>
-int factorial(int n){
+int factorial(int n)
+//WAP to find the factorial of a number using recursion.
+{
     if(n==0){
         return 1;
     }

@@ -1,5 +1,7 @@
 #include<stdio.h>
-int fib(int n){
+int fib(int n)
+//WAP to print fibonacci series up to n terms using recursion.
+{
     if(n==0){
         return 0;
     }
